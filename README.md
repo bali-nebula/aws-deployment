@@ -58,3 +58,4 @@ changes create a subsequent
 ["pull request"](https://help.github.com/articles/about-pull-requests/).
 Any questions and comments can be sent to [craterdog@gmail.com](mailto:craterdog@gmail.com).
 
+<H5 align="center"> Copyright © 2009-2026. Crater Dog Technologies™. All rights reserved. </H5>
